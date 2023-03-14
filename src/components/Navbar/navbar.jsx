@@ -19,7 +19,7 @@ const navbar = () => {
                 </li>
             </ul>
             <a className={styles.nav_link} href="#">
-                        <CartWidget />
+                <CartWidget />
                     </a>
         </nav>
     </div>
